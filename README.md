@@ -1,9 +1,6 @@
-# gatsby-starter-blog
-Gatsby starter for creating a blog
+# jackre-blog
 
-Install this starter (assuming Gatsby is installed) by running from your CLI:
+## Description
 
-`gatsby new gatsby-blog https://github.com/gatsbyjs/gatsby-starter-blog`
-
-## Running in development
-`gatsby develop`
+This is [my blog](jackre-blog.firebaseapp.com), but mainly it's
+just an excuse to try out [GatsbyJS](https://www.gatsbyjs.org/).
