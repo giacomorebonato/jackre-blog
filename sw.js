@@ -37,7 +37,7 @@
 /* eslint-disable indent, no-unused-vars, no-multiple-empty-lines, max-nested-callbacks, space-before-function-paren, quotes, comma-spacing */
 'use strict';
 
-var precacheConfig = [["/gatsby-starter-blog/app-fdaebb89ef1196f551f3.js","c88683e8773cbfd99efb8d0575d294e3"],["/gatsby-starter-blog/commons-4e9012e9394bd6e4620d.js","9be0ddc47381fcad440da493041cc05d"],["/gatsby-starter-blog/index.html","01b5004d52e8309432a52ce6711f296d"],["/gatsby-starter-blog/offline-plugin-app-shell-fallback/index.html","eb2811389bebf62c392439cd93c30ef2"]];
+var precacheConfig = [["/app-fdaebb89ef1196f551f3.js","9a03d398ed4c50441f705aac33d2ca1b"],["/commons-4e9012e9394bd6e4620d.js","960efc8350e287b4d1f4fa042f5105ef"],["/index.html","356484e6302dea9cbf53007d792752db"],["/offline-plugin-app-shell-fallback/index.html","a88eca436ce3527d5ee819c38f7e1fc2"]];
 var cacheName = 'sw-precache-v3-gatsby-plugin-offline-' + (self.registration ? self.registration.scope : '');
 
 
