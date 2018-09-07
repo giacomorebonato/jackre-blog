@@ -1,0 +1,2 @@
+webpackJsonp([0x81b8806e4260],{511:function(e,t){e.exports={data:{site:{siteMetadata:{title:"Gatsby Starter Blog"}},allMarkdownRemark:{edges:[{node:{excerpt:"This is my first post! Every week I create a personal playlist of music that I like to\nlisten while I code. 10 songs the helps you to focus…",fields:{slug:"/code-part-one/"},frontmatter:{date:"07 September, 2018",title:"Code part one"}}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---index-b7bbb5b7f461732881d8.js.map

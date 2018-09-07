@@ -1,10 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog/</link><generator>RSS for Node</generator><lastBuildDate>Fri, 07 Sep 2018 14:09:01 GMT</lastBuildDate><item><title><![CDATA[Code part one]]></title><description><![CDATA[This is my first post!
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog/</link><generator>RSS for Node</generator><lastBuildDate>Fri, 07 Sep 2018 14:13:01 GMT</lastBuildDate><item><title><![CDATA[Code part one]]></title><description><![CDATA[This is my first post! Every week I create a personal playlist of music that I like to
+listen while I code. 10 songs the helps you to focus…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//code-part-one/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//code-part-one/</guid><pubDate>Fri, 07 Sep 2018 14:02:01 GMT</pubDate><content:encoded>&lt;p&gt;This is my first post!&lt;br&gt;
 Every week I create a personal playlist of music that I like to
-listen while I code.
-10 songs the helps you to focus…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//code-part-one/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//code-part-one/</guid><pubDate>Fri, 07 Sep 2018 14:02:01 GMT</pubDate><content:encoded>&lt;p&gt;This is my first post!
-Every week I create a personal playlist of music that I like to
-listen while I code.
-10 songs the helps you to focus and stay motivated.
+listen while I code.&lt;br&gt;
+10 songs the helps you to focus and stay motivated.&lt;br&gt;
 Of couse it is very subjective… but maybe we have the same taste :)&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Playlists&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
