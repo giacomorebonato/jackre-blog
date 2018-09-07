@@ -3,10 +3,10 @@ title: Code part one
 date: "2018-09-07T14:02:01.708Z"
 ---
 
-This is my first post!
+This is my first post!  
 Every week I create a personal playlist of music that I like to
-listen while I code.
-10 songs the helps you to focus and stay motivated.
+listen while I code.  
+10 songs the helps you to focus and stay motivated.  
 Of couse it is very subjective... but maybe we have the same taste :)
 
 **Playlists**
